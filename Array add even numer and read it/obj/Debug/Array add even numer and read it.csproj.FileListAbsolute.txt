@@ -1,0 +1,7 @@
+E:\C# project\Array add even numer and read it\bin\Debug\Array add even numer and read it.exe.config
+E:\C# project\Array add even numer and read it\bin\Debug\Array add even numer and read it.exe
+E:\C# project\Array add even numer and read it\bin\Debug\Array add even numer and read it.pdb
+E:\C# project\Array add even numer and read it\obj\Debug\Array add even numer and read it.csproj.AssemblyReference.cache
+E:\C# project\Array add even numer and read it\obj\Debug\Array add even numer and read it.csproj.CoreCompileInputs.cache
+E:\C# project\Array add even numer and read it\obj\Debug\Array add even numer and read it.exe
+E:\C# project\Array add even numer and read it\obj\Debug\Array add even numer and read it.pdb

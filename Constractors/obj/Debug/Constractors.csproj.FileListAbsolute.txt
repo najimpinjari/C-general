@@ -1,0 +1,7 @@
+E:\C# project\Constractors\bin\Debug\Constractors.exe.config
+E:\C# project\Constractors\bin\Debug\Constractors.exe
+E:\C# project\Constractors\bin\Debug\Constractors.pdb
+E:\C# project\Constractors\obj\Debug\Constractors.csproj.AssemblyReference.cache
+E:\C# project\Constractors\obj\Debug\Constractors.csproj.CoreCompileInputs.cache
+E:\C# project\Constractors\obj\Debug\Constractors.exe
+E:\C# project\Constractors\obj\Debug\Constractors.pdb

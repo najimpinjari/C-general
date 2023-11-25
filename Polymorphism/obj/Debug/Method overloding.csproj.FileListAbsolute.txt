@@ -1,0 +1,7 @@
+E:\C# project\Polymorphism\bin\Debug\Polymorphism.exe.config
+E:\C# project\Polymorphism\bin\Debug\Polymorphism.exe
+E:\C# project\Polymorphism\bin\Debug\Polymorphism.pdb
+E:\C# project\Polymorphism\obj\Debug\Method overloding.csproj.AssemblyReference.cache
+E:\C# project\Polymorphism\obj\Debug\Method overloding.csproj.CoreCompileInputs.cache
+E:\C# project\Polymorphism\obj\Debug\Polymorphism.exe
+E:\C# project\Polymorphism\obj\Debug\Polymorphism.pdb

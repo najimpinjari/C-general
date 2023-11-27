@@ -1,0 +1,7 @@
+E:\C# project\OPRETOR OVERLODING\obj\Debug\OPRETOR OVERLODING.csproj.AssemblyReference.cache
+E:\C# project\OPRETOR OVERLODING\obj\Debug\OPRETOR OVERLODING.csproj.CoreCompileInputs.cache
+E:\C# project\OPRETOR OVERLODING\bin\Debug\OPRETOR OVERLODING.exe.config
+E:\C# project\OPRETOR OVERLODING\bin\Debug\OPRETOR OVERLODING.exe
+E:\C# project\OPRETOR OVERLODING\bin\Debug\OPRETOR OVERLODING.pdb
+E:\C# project\OPRETOR OVERLODING\obj\Debug\OPRETOR OVERLODING.exe
+E:\C# project\OPRETOR OVERLODING\obj\Debug\OPRETOR OVERLODING.pdb

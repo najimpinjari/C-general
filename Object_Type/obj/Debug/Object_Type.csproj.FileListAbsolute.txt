@@ -1,0 +1,7 @@
+E:\C# project\1\Object_Type\bin\Debug\Object_Type.exe.config
+E:\C# project\1\Object_Type\bin\Debug\Object_Type.exe
+E:\C# project\1\Object_Type\bin\Debug\Object_Type.pdb
+E:\C# project\1\Object_Type\obj\Debug\Object_Type.csproj.AssemblyReference.cache
+E:\C# project\1\Object_Type\obj\Debug\Object_Type.csproj.CoreCompileInputs.cache
+E:\C# project\1\Object_Type\obj\Debug\Object_Type.exe
+E:\C# project\1\Object_Type\obj\Debug\Object_Type.pdb

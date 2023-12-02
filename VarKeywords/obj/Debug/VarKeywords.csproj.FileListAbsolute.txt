@@ -1,0 +1,7 @@
+E:\C# project\1\VarKeywords\bin\Debug\VarKeywords.exe.config
+E:\C# project\1\VarKeywords\bin\Debug\VarKeywords.exe
+E:\C# project\1\VarKeywords\bin\Debug\VarKeywords.pdb
+E:\C# project\1\VarKeywords\obj\Debug\VarKeywords.csproj.AssemblyReference.cache
+E:\C# project\1\VarKeywords\obj\Debug\VarKeywords.csproj.CoreCompileInputs.cache
+E:\C# project\1\VarKeywords\obj\Debug\VarKeywords.exe
+E:\C# project\1\VarKeywords\obj\Debug\VarKeywords.pdb

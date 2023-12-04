@@ -1,0 +1,7 @@
+E:\C# project\1\AbstractionEncapsulation\bin\Debug\AbstractionEncapsulation.exe.config
+E:\C# project\1\AbstractionEncapsulation\bin\Debug\AbstractionEncapsulation.exe
+E:\C# project\1\AbstractionEncapsulation\bin\Debug\AbstractionEncapsulation.pdb
+E:\C# project\1\AbstractionEncapsulation\obj\Debug\AbstractionEncapsulation.csproj.AssemblyReference.cache
+E:\C# project\1\AbstractionEncapsulation\obj\Debug\AbstractionEncapsulation.csproj.CoreCompileInputs.cache
+E:\C# project\1\AbstractionEncapsulation\obj\Debug\AbstractionEncapsulation.exe
+E:\C# project\1\AbstractionEncapsulation\obj\Debug\AbstractionEncapsulation.pdb

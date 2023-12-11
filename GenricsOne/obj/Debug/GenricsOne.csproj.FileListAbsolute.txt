@@ -1,0 +1,7 @@
+E:\C# project\1\GenricsOne\bin\Debug\GenricsOne.exe.config
+E:\C# project\1\GenricsOne\bin\Debug\GenricsOne.exe
+E:\C# project\1\GenricsOne\bin\Debug\GenricsOne.pdb
+E:\C# project\1\GenricsOne\obj\Debug\GenricsOne.csproj.AssemblyReference.cache
+E:\C# project\1\GenricsOne\obj\Debug\GenricsOne.csproj.CoreCompileInputs.cache
+E:\C# project\1\GenricsOne\obj\Debug\GenricsOne.exe
+E:\C# project\1\GenricsOne\obj\Debug\GenricsOne.pdb

@@ -1,0 +1,7 @@
+E:\C# project\1\deligate\bin\Debug\deligate.exe.config
+E:\C# project\1\deligate\bin\Debug\deligate.exe
+E:\C# project\1\deligate\bin\Debug\deligate.pdb
+E:\C# project\1\deligate\obj\Debug\deligate.csproj.AssemblyReference.cache
+E:\C# project\1\deligate\obj\Debug\deligate.csproj.CoreCompileInputs.cache
+E:\C# project\1\deligate\obj\Debug\deligate.exe
+E:\C# project\1\deligate\obj\Debug\deligate.pdb

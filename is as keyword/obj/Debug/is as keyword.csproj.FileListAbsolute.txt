@@ -1,0 +1,7 @@
+E:\C# project\1\is as keyword\bin\Debug\is as keyword.exe.config
+E:\C# project\1\is as keyword\bin\Debug\is as keyword.exe
+E:\C# project\1\is as keyword\bin\Debug\is as keyword.pdb
+E:\C# project\1\is as keyword\obj\Debug\is as keyword.csproj.AssemblyReference.cache
+E:\C# project\1\is as keyword\obj\Debug\is as keyword.csproj.CoreCompileInputs.cache
+E:\C# project\1\is as keyword\obj\Debug\is as keyword.exe
+E:\C# project\1\is as keyword\obj\Debug\is as keyword.pdb

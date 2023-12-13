@@ -1,0 +1,7 @@
+E:\C# project\1\const and readonly\bin\Debug\const and readonly.exe.config
+E:\C# project\1\const and readonly\bin\Debug\const and readonly.exe
+E:\C# project\1\const and readonly\bin\Debug\const and readonly.pdb
+E:\C# project\1\const and readonly\obj\Debug\const and readonly.csproj.AssemblyReference.cache
+E:\C# project\1\const and readonly\obj\Debug\const and readonly.csproj.CoreCompileInputs.cache
+E:\C# project\1\const and readonly\obj\Debug\const and readonly.exe
+E:\C# project\1\const and readonly\obj\Debug\const and readonly.pdb

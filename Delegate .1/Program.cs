@@ -22,8 +22,9 @@ namespace Delegate._1
             //delegated pointing more than one methods 
             clc(5, 20);
 
-            //calculator clc1 = new calculator(Mul);
-            //clc1(20, 20);
+            //calculator clc1 = new calculator(Mul);// you should have add any mamth keyword here and then efect as follow 
+            
+            //clc1(20, 20); //  //call  delegate first way 
 
             Console.ReadLine();
         }

@@ -1,0 +1,7 @@
+E:\C# project\1\NewArraylist\bin\Debug\NewArraylist.exe.config
+E:\C# project\1\NewArraylist\bin\Debug\NewArraylist.exe
+E:\C# project\1\NewArraylist\bin\Debug\NewArraylist.pdb
+E:\C# project\1\NewArraylist\obj\Debug\NewArraylist.csproj.AssemblyReference.cache
+E:\C# project\1\NewArraylist\obj\Debug\NewArraylist.csproj.CoreCompileInputs.cache
+E:\C# project\1\NewArraylist\obj\Debug\NewArraylist.exe
+E:\C# project\1\NewArraylist\obj\Debug\NewArraylist.pdb

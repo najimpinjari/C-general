@@ -1,0 +1,7 @@
+E:\C# project\1\collection_queue\bin\Debug\collection_queue.exe.config
+E:\C# project\1\collection_queue\bin\Debug\collection_queue.exe
+E:\C# project\1\collection_queue\bin\Debug\collection_queue.pdb
+E:\C# project\1\collection_queue\obj\Debug\collection_queue.csproj.AssemblyReference.cache
+E:\C# project\1\collection_queue\obj\Debug\collection_queue.csproj.CoreCompileInputs.cache
+E:\C# project\1\collection_queue\obj\Debug\collection_queue.exe
+E:\C# project\1\collection_queue\obj\Debug\collection_queue.pdb

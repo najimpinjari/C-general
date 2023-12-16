@@ -1,0 +1,7 @@
+E:\C# project\1\Collection_stack\bin\Debug\Collection_stack.exe.config
+E:\C# project\1\Collection_stack\bin\Debug\Collection_stack.exe
+E:\C# project\1\Collection_stack\bin\Debug\Collection_stack.pdb
+E:\C# project\1\Collection_stack\obj\Debug\Collection_stack.csproj.AssemblyReference.cache
+E:\C# project\1\Collection_stack\obj\Debug\Collection_stack.csproj.CoreCompileInputs.cache
+E:\C# project\1\Collection_stack\obj\Debug\Collection_stack.exe
+E:\C# project\1\Collection_stack\obj\Debug\Collection_stack.pdb

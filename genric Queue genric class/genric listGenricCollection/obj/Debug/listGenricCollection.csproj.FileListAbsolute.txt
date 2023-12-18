@@ -1,0 +1,7 @@
+E:\C# project\1\listGenricCollection\bin\Debug\listGenricCollection.exe.config
+E:\C# project\1\listGenricCollection\bin\Debug\listGenricCollection.exe
+E:\C# project\1\listGenricCollection\bin\Debug\listGenricCollection.pdb
+E:\C# project\1\listGenricCollection\obj\Debug\listGenricCollection.csproj.AssemblyReference.cache
+E:\C# project\1\listGenricCollection\obj\Debug\listGenricCollection.csproj.CoreCompileInputs.cache
+E:\C# project\1\listGenricCollection\obj\Debug\listGenricCollection.exe
+E:\C# project\1\listGenricCollection\obj\Debug\listGenricCollection.pdb

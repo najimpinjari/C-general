@@ -1,0 +1,7 @@
+E:\C# project\1\Stack_collection_class\bin\Debug\Stack_collection_class.exe.config
+E:\C# project\1\Stack_collection_class\bin\Debug\Stack_collection_class.exe
+E:\C# project\1\Stack_collection_class\bin\Debug\Stack_collection_class.pdb
+E:\C# project\1\Stack_collection_class\obj\Debug\Stack_collection_class.csproj.AssemblyReference.cache
+E:\C# project\1\Stack_collection_class\obj\Debug\Stack_collection_class.csproj.CoreCompileInputs.cache
+E:\C# project\1\Stack_collection_class\obj\Debug\Stack_collection_class.exe
+E:\C# project\1\Stack_collection_class\obj\Debug\Stack_collection_class.pdb

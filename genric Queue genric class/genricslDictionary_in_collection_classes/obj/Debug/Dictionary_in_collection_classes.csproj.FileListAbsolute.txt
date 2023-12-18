@@ -1,0 +1,7 @@
+E:\C# project\1\Dictionary_in_collection_classes\bin\Debug\Dictionary_in_collection_classes.exe.config
+E:\C# project\1\Dictionary_in_collection_classes\bin\Debug\Dictionary_in_collection_classes.exe
+E:\C# project\1\Dictionary_in_collection_classes\bin\Debug\Dictionary_in_collection_classes.pdb
+E:\C# project\1\Dictionary_in_collection_classes\obj\Debug\Dictionary_in_collection_classes.csproj.AssemblyReference.cache
+E:\C# project\1\Dictionary_in_collection_classes\obj\Debug\Dictionary_in_collection_classes.csproj.CoreCompileInputs.cache
+E:\C# project\1\Dictionary_in_collection_classes\obj\Debug\Dictionary_in_collection_classes.exe
+E:\C# project\1\Dictionary_in_collection_classes\obj\Debug\Dictionary_in_collection_classes.pdb

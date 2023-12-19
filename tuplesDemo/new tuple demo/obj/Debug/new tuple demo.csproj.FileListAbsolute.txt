@@ -1,0 +1,7 @@
+E:\C# project\1\new tuple demo\bin\Debug\new tuple demo.exe.config
+E:\C# project\1\new tuple demo\bin\Debug\new tuple demo.exe
+E:\C# project\1\new tuple demo\bin\Debug\new tuple demo.pdb
+E:\C# project\1\new tuple demo\obj\Debug\new tuple demo.csproj.AssemblyReference.cache
+E:\C# project\1\new tuple demo\obj\Debug\new tuple demo.csproj.CoreCompileInputs.cache
+E:\C# project\1\new tuple demo\obj\Debug\new tuple demo.exe
+E:\C# project\1\new tuple demo\obj\Debug\new tuple demo.pdb

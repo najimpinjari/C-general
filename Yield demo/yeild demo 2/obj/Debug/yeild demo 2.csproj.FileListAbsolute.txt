@@ -1,0 +1,2 @@
+E:\C# project\1\yeild demo 2\obj\Debug\yeild demo 2.csproj.AssemblyReference.cache
+E:\C# project\1\yeild demo 2\obj\Debug\yeild demo 2.csproj.CoreCompileInputs.cache

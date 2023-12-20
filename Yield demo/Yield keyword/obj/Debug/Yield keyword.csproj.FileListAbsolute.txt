@@ -1,0 +1,7 @@
+E:\C# project\1\Yield keyword\bin\Debug\Yield keyword.exe.config
+E:\C# project\1\Yield keyword\bin\Debug\Yield keyword.exe
+E:\C# project\1\Yield keyword\bin\Debug\Yield keyword.pdb
+E:\C# project\1\Yield keyword\obj\Debug\Yield keyword.csproj.AssemblyReference.cache
+E:\C# project\1\Yield keyword\obj\Debug\Yield keyword.csproj.CoreCompileInputs.cache
+E:\C# project\1\Yield keyword\obj\Debug\Yield keyword.exe
+E:\C# project\1\Yield keyword\obj\Debug\Yield keyword.pdb

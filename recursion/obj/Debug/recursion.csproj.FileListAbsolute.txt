@@ -1,0 +1,7 @@
+E:\C# project\1\recursion\bin\Debug\recursion.exe.config
+E:\C# project\1\recursion\bin\Debug\recursion.exe
+E:\C# project\1\recursion\bin\Debug\recursion.pdb
+E:\C# project\1\recursion\obj\Debug\recursion.csproj.AssemblyReference.cache
+E:\C# project\1\recursion\obj\Debug\recursion.csproj.CoreCompileInputs.cache
+E:\C# project\1\recursion\obj\Debug\recursion.exe
+E:\C# project\1\recursion\obj\Debug\recursion.pdb

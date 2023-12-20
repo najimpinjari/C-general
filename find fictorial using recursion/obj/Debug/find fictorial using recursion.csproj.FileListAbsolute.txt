@@ -1,0 +1,7 @@
+E:\C# project\1\find fictorial using recursion\bin\Debug\find fictorial using recursion.exe.config
+E:\C# project\1\find fictorial using recursion\bin\Debug\find fictorial using recursion.exe
+E:\C# project\1\find fictorial using recursion\bin\Debug\find fictorial using recursion.pdb
+E:\C# project\1\find fictorial using recursion\obj\Debug\find fictorial using recursion.csproj.AssemblyReference.cache
+E:\C# project\1\find fictorial using recursion\obj\Debug\find fictorial using recursion.csproj.CoreCompileInputs.cache
+E:\C# project\1\find fictorial using recursion\obj\Debug\find fictorial using recursion.exe
+E:\C# project\1\find fictorial using recursion\obj\Debug\find fictorial using recursion.pdb

@@ -1,0 +1,7 @@
+E:\C# project\1\AnoynimusFunction\bin\Debug\AnoynimusFunction.exe.config
+E:\C# project\1\AnoynimusFunction\bin\Debug\AnoynimusFunction.exe
+E:\C# project\1\AnoynimusFunction\bin\Debug\AnoynimusFunction.pdb
+E:\C# project\1\AnoynimusFunction\obj\Debug\AnoynimusFunction.csproj.AssemblyReference.cache
+E:\C# project\1\AnoynimusFunction\obj\Debug\AnoynimusFunction.csproj.CoreCompileInputs.cache
+E:\C# project\1\AnoynimusFunction\obj\Debug\AnoynimusFunction.exe
+E:\C# project\1\AnoynimusFunction\obj\Debug\AnoynimusFunction.pdb

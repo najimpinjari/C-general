@@ -1,0 +1,7 @@
+E:\C# project\1\colection_classes-all\bin\Debug\colection_classes-all.exe.config
+E:\C# project\1\colection_classes-all\bin\Debug\colection_classes-all.exe
+E:\C# project\1\colection_classes-all\bin\Debug\colection_classes-all.pdb
+E:\C# project\1\colection_classes-all\obj\Debug\colection_classes-all.csproj.AssemblyReference.cache
+E:\C# project\1\colection_classes-all\obj\Debug\colection_classes-all.csproj.CoreCompileInputs.cache
+E:\C# project\1\colection_classes-all\obj\Debug\colection_classes-all.exe
+E:\C# project\1\colection_classes-all\obj\Debug\colection_classes-all.pdb

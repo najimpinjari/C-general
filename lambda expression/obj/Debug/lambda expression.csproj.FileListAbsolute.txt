@@ -1,0 +1,7 @@
+E:\C# project\1\lambda expression\bin\Debug\lambda expression.exe.config
+E:\C# project\1\lambda expression\bin\Debug\lambda expression.exe
+E:\C# project\1\lambda expression\bin\Debug\lambda expression.pdb
+E:\C# project\1\lambda expression\obj\Debug\lambda expression.csproj.AssemblyReference.cache
+E:\C# project\1\lambda expression\obj\Debug\lambda expression.csproj.CoreCompileInputs.cache
+E:\C# project\1\lambda expression\obj\Debug\lambda expression.exe
+E:\C# project\1\lambda expression\obj\Debug\lambda expression.pdb

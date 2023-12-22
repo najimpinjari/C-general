@@ -1,0 +1,7 @@
+E:\C# project\1\Generic Deligate\bin\Debug\Generic Deligate.exe.config
+E:\C# project\1\Generic Deligate\bin\Debug\Generic Deligate.exe
+E:\C# project\1\Generic Deligate\bin\Debug\Generic Deligate.pdb
+E:\C# project\1\Generic Deligate\obj\Debug\Generic Deligate.csproj.AssemblyReference.cache
+E:\C# project\1\Generic Deligate\obj\Debug\Generic Deligate.csproj.CoreCompileInputs.cache
+E:\C# project\1\Generic Deligate\obj\Debug\Generic Deligate.exe
+E:\C# project\1\Generic Deligate\obj\Debug\Generic Deligate.pdb

@@ -1,0 +1,14 @@
+E:\C# project\fab_9\fab_9\bin\Debug\net7.0\fab_9.exe
+E:\C# project\fab_9\fab_9\bin\Debug\net7.0\fab_9.deps.json
+E:\C# project\fab_9\fab_9\bin\Debug\net7.0\fab_9.runtimeconfig.json
+E:\C# project\fab_9\fab_9\bin\Debug\net7.0\fab_9.dll
+E:\C# project\fab_9\fab_9\bin\Debug\net7.0\fab_9.pdb
+E:\C# project\fab_9\fab_9\obj\Debug\net7.0\fab_9.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# project\fab_9\fab_9\obj\Debug\net7.0\fab_9.AssemblyInfoInputs.cache
+E:\C# project\fab_9\fab_9\obj\Debug\net7.0\fab_9.AssemblyInfo.cs
+E:\C# project\fab_9\fab_9\obj\Debug\net7.0\fab_9.csproj.CoreCompileInputs.cache
+E:\C# project\fab_9\fab_9\obj\Debug\net7.0\fab_9.dll
+E:\C# project\fab_9\fab_9\obj\Debug\net7.0\refint\fab_9.dll
+E:\C# project\fab_9\fab_9\obj\Debug\net7.0\fab_9.pdb
+E:\C# project\fab_9\fab_9\obj\Debug\net7.0\fab_9.genruntimeconfig.cache
+E:\C# project\fab_9\fab_9\obj\Debug\net7.0\ref\fab_9.dll

@@ -1,0 +1,7 @@
+E:\C# project\CRUD_dbfa\Encapsulation\bin\Debug\Encapsulation.exe.config
+E:\C# project\CRUD_dbfa\Encapsulation\bin\Debug\Encapsulation.exe
+E:\C# project\CRUD_dbfa\Encapsulation\bin\Debug\Encapsulation.pdb
+E:\C# project\CRUD_dbfa\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+E:\C# project\CRUD_dbfa\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+E:\C# project\CRUD_dbfa\Encapsulation\obj\Debug\Encapsulation.exe
+E:\C# project\CRUD_dbfa\Encapsulation\obj\Debug\Encapsulation.pdb

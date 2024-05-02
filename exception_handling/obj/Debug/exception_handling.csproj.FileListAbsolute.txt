@@ -1,0 +1,7 @@
+E:\C# project\CRUD_dbfa\exception_handling\bin\Debug\exception_handling.exe.config
+E:\C# project\CRUD_dbfa\exception_handling\bin\Debug\exception_handling.exe
+E:\C# project\CRUD_dbfa\exception_handling\bin\Debug\exception_handling.pdb
+E:\C# project\CRUD_dbfa\exception_handling\obj\Debug\exception_handling.csproj.AssemblyReference.cache
+E:\C# project\CRUD_dbfa\exception_handling\obj\Debug\exception_handling.csproj.CoreCompileInputs.cache
+E:\C# project\CRUD_dbfa\exception_handling\obj\Debug\exception_handling.exe
+E:\C# project\CRUD_dbfa\exception_handling\obj\Debug\exception_handling.pdb

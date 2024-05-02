@@ -1,0 +1,7 @@
+E:\C# project\CRUD_dbfa\Association\bin\Debug\Association.exe.config
+E:\C# project\CRUD_dbfa\Association\bin\Debug\Association.exe
+E:\C# project\CRUD_dbfa\Association\bin\Debug\Association.pdb
+E:\C# project\CRUD_dbfa\Association\obj\Debug\Association.csproj.AssemblyReference.cache
+E:\C# project\CRUD_dbfa\Association\obj\Debug\Association.csproj.CoreCompileInputs.cache
+E:\C# project\CRUD_dbfa\Association\obj\Debug\Association.exe
+E:\C# project\CRUD_dbfa\Association\obj\Debug\Association.pdb
